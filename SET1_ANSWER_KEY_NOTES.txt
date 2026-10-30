@@ -1,0 +1,9 @@
+MCA Aptitude Test – Campus Placement Preparation | Set-1
+
+- All 50 question prompts and their options are transcribed from the supplied PDF.
+- The PDF explicitly labels answers only for Q48 (B), Q49 (B), and Q50 (D).
+- Most earlier answer indices are derived by solving the supplied questions, not copied from an official answer key.
+- Q18 uses option D, consistent with the note in the PDF that the information is insufficient.
+- Q25 accepts both A and B because both expressions are equivalent under A/B = 6/5.
+- Q26, Q38, and Q46 are left without a scoring key (answer: null) because no defensible single option is supported by the supplied paper. They are counted incorrect in the current 50-mark score.
+- Verify the key for all questions with the approved institutional answer key before a formal graded test.
